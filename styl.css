@@ -1,0 +1,31 @@
+body{
+background: lightblue;
+width: 250px;
+margin: auto;
+text-align: center;
+}
+
+#w {
+	font-weight:bold;
+	width: 180px;
+	color: purple;
+	text-align: justify;
+}
+
+#m{
+	font-weight:bold;
+	width: 180px;
+	color: navy;
+	text-align: justify;
+}
+
+#s{
+	font-weight:bold;
+	width: 180px;
+	color: red;
+	text-align: justify;
+}
+
+#wynik{
+	
+}
